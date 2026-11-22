@@ -1,6 +1,6 @@
 {
   "schema": "COMPUTICS_AudioText_License_Registry_v1",
-  "updated_at": "2026-11-22T00:53:42Z",
+  "updated_at": "2026-11-22T00:54:12Z",
   "records": {
     "6ae50e552f025b1c50ae3e9f": {
       "state": "active",
@@ -8,7 +8,7 @@
       "edition": "Permanente",
       "start_date": "Desde Activación",
       "end_date": "Sin Vencimiento",
-      "updated_at": "22/11/2026 00:53:42"
+      "updated_at": "22/11/2026 00:54:12"
     },
     "cc069a72fcc3b500234642f6": {
       "state": "active",
@@ -16,7 +16,7 @@
       "edition": "Permanente",
       "start_date": "Desde Activación",
       "end_date": "Sin Vencimiento",
-      "updated_at": "22/11/2026 00:53:42"
+      "updated_at": "22/11/2026 00:54:12"
     },
     "c67441ba5a7135fc03d39d07": {
       "state": "active",
@@ -24,7 +24,7 @@
       "edition": "Temporal",
       "start_date": "21/11/2026",
       "end_date": "05/01/2027",
-      "updated_at": "22/11/2026 00:53:42"
+      "updated_at": "22/11/2026 00:54:12"
     },
     "381d715698a0be33fb4b5384": {
       "state": "active",
@@ -32,8 +32,8 @@
       "edition": "Permanente",
       "start_date": "Desde Activación",
       "end_date": "Sin Vencimiento",
-      "updated_at": "22/11/2026 00:53:42"
+      "updated_at": "22/11/2026 00:54:12"
     }
   },
-  "signature": "c00015068a03ac9aab3f8dade31a6211b3876f3ab1f13671fb558f13cb2d6fbe"
+  "signature": "9919eb6c1274502ffef6bfac86f399359d133da564376ee4ac20b084fe91e840"
 }
